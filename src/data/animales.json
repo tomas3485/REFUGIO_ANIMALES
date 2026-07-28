@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "nombre": "Luna",
+    "tipo": "perro",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/f4a261/ffffff?text=Luna+%F0%9F%90%B6",
+    "descripcion": "Muy cariñosa y juguetona. Le encanta pasear y socializa bien con otros perros.",
+    "estado": "disponible"
+  },
+  {
+    "id": 2,
+    "nombre": "Rocky",
+    "tipo": "perro",
+    "edad": 4,
+    "foto": "https://placehold.co/400x300/e76f51/ffffff?text=Rocky+%F0%9F%90%B6",
+    "descripcion": "Tranquilo y obediente. Ideal para familias con niños pequeños.",
+    "estado": "disponible"
+  },
+  {
+    "id": 3,
+    "nombre": "Nala",
+    "tipo": "perro",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/f4a261/ffffff?text=Nala+%F0%9F%90%B6",
+    "descripcion": "Cachorra llena de energía, necesita un hogar activo.",
+    "estado": "disponible"
+  },
+  {
+    "id": 4,
+    "nombre": "Thor",
+    "tipo": "perro",
+    "edad": 5,
+    "foto": "https://placehold.co/400x300/e76f51/ffffff?text=Thor+%F0%9F%90%B6",
+    "descripcion": "Grande pero muy noble, buen guardián y protector de la familia.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 5,
+    "nombre": "Bella",
+    "tipo": "perro",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/f4a261/ffffff?text=Bella+%F0%9F%90%B6",
+    "descripcion": "Le gusta mucho jugar a la pelota y aprende comandos rápido.",
+    "estado": "disponible"
+  },
+  {
+    "id": 6,
+    "nombre": "Max",
+    "tipo": "perro",
+    "edad": 6,
+    "foto": "https://placehold.co/400x300/e76f51/ffffff?text=Max+%F0%9F%90%B6",
+    "descripcion": "Perro senior, tranquilo, perfecto para compañía en casa.",
+    "estado": "disponible"
+  },
+  {
+    "id": 7,
+    "nombre": "Coco",
+    "tipo": "perro",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/f4a261/ffffff?text=Coco+%F0%9F%90%B6",
+    "descripcion": "Pequeña y muy sociable, se lleva bien con gatos también.",
+    "estado": "disponible"
+  },
+  {
+    "id": 8,
+    "nombre": "Zeus",
+    "tipo": "perro",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/e76f51/ffffff?text=Zeus+%F0%9F%90%B6",
+    "descripcion": "Activo y atlético, ideal para dueños deportistas.",
+    "estado": "disponible"
+  },
+  {
+    "id": 9,
+    "nombre": "Mia",
+    "tipo": "perro",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/f4a261/ffffff?text=Mia+%F0%9F%90%B6",
+    "descripcion": "Cachorra curiosa, todavía en proceso de aprendizaje básico.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 10,
+    "nombre": "Toby",
+    "tipo": "perro",
+    "edad": 7,
+    "foto": "https://placehold.co/400x300/e76f51/ffffff?text=Toby+%F0%9F%90%B6",
+    "descripcion": "Muy tranquilo, perfecto para pisos pequeños.",
+    "estado": "disponible"
+  },
+  {
+    "id": 11,
+    "nombre": "Simba",
+    "tipo": "gato",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/2a9d8f/ffffff?text=Simba+%F0%9F%90%B1",
+    "descripcion": "Juguetón y curioso, le encantan los rascadores altos.",
+    "estado": "disponible"
+  },
+  {
+    "id": 12,
+    "nombre": "Mishi",
+    "tipo": "gato",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/264653/ffffff?text=Mishi+%F0%9F%90%B1",
+    "descripcion": "Gatita muy tranquila, se acurruca todo el día.",
+    "estado": "disponible"
+  },
+  {
+    "id": 13,
+    "nombre": "Salem",
+    "tipo": "gato",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/2a9d8f/ffffff?text=Salem+%F0%9F%90%B1",
+    "descripcion": "Independiente, le gusta observar desde la ventana.",
+    "estado": "disponible"
+  },
+  {
+    "id": 14,
+    "nombre": "Nube",
+    "tipo": "gato",
+    "edad": 4,
+    "foto": "https://placehold.co/400x300/264653/ffffff?text=Nube+%F0%9F%90%B1",
+    "descripcion": "Pelo largo y muy dócil, requiere cepillado frecuente.",
+    "estado": "disponible"
+  },
+  {
+    "id": 15,
+    "nombre": "Tom",
+    "tipo": "gato",
+    "edad": 5,
+    "foto": "https://placehold.co/400x300/2a9d8f/ffffff?text=Tom+%F0%9F%90%B1",
+    "descripcion": "Cazador nato, ideal para casas con jardín.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 16,
+    "nombre": "Kira",
+    "tipo": "gato",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/264653/ffffff?text=Kira+%F0%9F%90%B1",
+    "descripcion": "Muy sociable, se lleva bien con perros también.",
+    "estado": "disponible"
+  },
+  {
+    "id": 17,
+    "nombre": "Oreo",
+    "tipo": "gato",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/2a9d8f/ffffff?text=Oreo+%F0%9F%90%B1",
+    "descripcion": "Bicolor blanco y negro, muy juguetón con las pelotas.",
+    "estado": "disponible"
+  },
+  {
+    "id": 18,
+    "nombre": "Frida",
+    "tipo": "gato",
+    "edad": 6,
+    "foto": "https://placehold.co/400x300/264653/ffffff?text=Frida+%F0%9F%90%B1",
+    "descripcion": "Gata senior, tranquila y muy cariñosa con adultos.",
+    "estado": "disponible"
+  },
+  {
+    "id": 19,
+    "nombre": "Loki",
+    "tipo": "gato",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/2a9d8f/ffffff?text=Loki+%F0%9F%90%B1",
+    "descripcion": "Travieso, le gusta esconderse y saltar por sorpresa.",
+    "estado": "disponible"
+  },
+  {
+    "id": 20,
+    "nombre": "Perla",
+    "tipo": "gato",
+    "edad": 4,
+    "foto": "https://placehold.co/400x300/264653/ffffff?text=Perla+%F0%9F%90%B1",
+    "descripcion": "Muy limpia y ordenada, ideal para primeros dueños de gatos.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 21,
+    "nombre": "Nemo",
+    "tipo": "pez",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/219ebc/ffffff?text=Nemo+%F0%9F%90%A0",
+    "descripcion": "Pez payaso pequeño, requiere acuario con anémona o refugio similar.",
+    "estado": "disponible"
+  },
+  {
+    "id": 22,
+    "nombre": "Dory",
+    "tipo": "pez",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/023047/ffffff?text=Dory+%F0%9F%90%A0",
+    "descripcion": "Muy activa, necesita acuario de al menos 100 litros.",
+    "estado": "disponible"
+  },
+  {
+    "id": 23,
+    "nombre": "Bubbles",
+    "tipo": "pez",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/219ebc/ffffff?text=Bubbles+%F0%9F%90%A0",
+    "descripcion": "Pez betta, debe vivir solo en su propio acuario.",
+    "estado": "disponible"
+  },
+  {
+    "id": 24,
+    "nombre": "Coral",
+    "tipo": "pez",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/023047/ffffff?text=Coral+%F0%9F%90%A0",
+    "descripcion": "Pez ángel, convive bien con otras especies tranquilas.",
+    "estado": "disponible"
+  },
+  {
+    "id": 25,
+    "nombre": "Splash",
+    "tipo": "pez",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/219ebc/ffffff?text=Splash+%F0%9F%90%A0",
+    "descripcion": "Guppy muy resistente, ideal para principiantes en acuariofilia.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 26,
+    "nombre": "Goldie",
+    "tipo": "pez",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/023047/ffffff?text=Goldie+%F0%9F%90%A0",
+    "descripcion": "Pez dorado, necesita acuario amplio y buena filtración.",
+    "estado": "disponible"
+  },
+  {
+    "id": 27,
+    "nombre": "Azul",
+    "tipo": "pez",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/219ebc/ffffff?text=Azul+%F0%9F%90%A0",
+    "descripcion": "Tetra neón, vive mejor en grupo de al menos 6 ejemplares.",
+    "estado": "disponible"
+  },
+  {
+    "id": 28,
+    "nombre": "Finn",
+    "tipo": "pez",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/023047/ffffff?text=Finn+%F0%9F%90%A0",
+    "descripcion": "Pez espada, activo y de colores llamativos.",
+    "estado": "disponible"
+  },
+  {
+    "id": 29,
+    "nombre": "Marina",
+    "tipo": "pez",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/219ebc/ffffff?text=Marina+%F0%9F%90%A0",
+    "descripcion": "Molly negra, muy tranquila y fácil de cuidar.",
+    "estado": "disponible"
+  },
+  {
+    "id": 30,
+    "nombre": "Wave",
+    "tipo": "pez",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/023047/ffffff?text=Wave+%F0%9F%90%A0",
+    "descripcion": "Pez plateado, requiere agua bien oxigenada.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 31,
+    "nombre": "Copito",
+    "tipo": "roedor",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/8ac926/ffffff?text=Copito+%F0%9F%90%B9",
+    "descripcion": "Hámster sirio, muy activo por las noches en su rueda.",
+    "estado": "disponible"
+  },
+  {
+    "id": 32,
+    "nombre": "Pelusa",
+    "tipo": "roedor",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/606c38/ffffff?text=Pelusa+%F0%9F%90%B9",
+    "descripcion": "Conejilla de indias sociable, mejor adoptar en pareja.",
+    "estado": "disponible"
+  },
+  {
+    "id": 33,
+    "nombre": "Chispa",
+    "tipo": "roedor",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/8ac926/ffffff?text=Chispa+%F0%9F%90%B9",
+    "descripcion": "Chinchilla curiosa, necesita baños de arena regulares.",
+    "estado": "disponible"
+  },
+  {
+    "id": 34,
+    "nombre": "Nueces",
+    "tipo": "roedor",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/606c38/ffffff?text=Nueces+%F0%9F%90%B9",
+    "descripcion": "Ardilla de tierra, activa durante el día.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 35,
+    "nombre": "Motita",
+    "tipo": "roedor",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/8ac926/ffffff?text=Motita+%F0%9F%90%B9",
+    "descripcion": "Rata doméstica muy inteligente y cariñosa.",
+    "estado": "disponible"
+  },
+  {
+    "id": 36,
+    "nombre": "Canela",
+    "tipo": "roedor",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/606c38/ffffff?text=Canela+%F0%9F%90%B9",
+    "descripcion": "Hámster enano ruso, pequeño y de fácil cuidado.",
+    "estado": "disponible"
+  },
+  {
+    "id": 37,
+    "nombre": "Bigotes",
+    "tipo": "roedor",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/8ac926/ffffff?text=Bigotes+%F0%9F%90%B9",
+    "descripcion": "Conejillo de indias con pelo largo, requiere cepillado.",
+    "estado": "disponible"
+  },
+  {
+    "id": 38,
+    "nombre": "Tofu",
+    "tipo": "roedor",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/606c38/ffffff?text=Tofu+%F0%9F%90%B9",
+    "descripcion": "Jerbo pequeño y muy ágil, le gusta cavar.",
+    "estado": "disponible"
+  },
+  {
+    "id": 39,
+    "nombre": "Migaja",
+    "tipo": "roedor",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/8ac926/ffffff?text=Migaja+%F0%9F%90%B9",
+    "descripcion": "Chinchilla senior, tranquila y de hábitos nocturnos.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 40,
+    "nombre": "Rocket",
+    "tipo": "roedor",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/606c38/ffffff?text=Rocket+%F0%9F%90%B9",
+    "descripcion": "Rata joven, muy activa y sociable con las personas.",
+    "estado": "disponible"
+  },
+  {
+    "id": 41,
+    "nombre": "Kiwi",
+    "tipo": "ave",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/ffb703/ffffff?text=Kiwi+%F0%9F%90%A6",
+    "descripcion": "Periquito muy hablador, le gusta imitar sonidos.",
+    "estado": "disponible"
+  },
+  {
+    "id": 42,
+    "nombre": "Sunny",
+    "tipo": "ave",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/fb8500/ffffff?text=Sunny+%F0%9F%90%A6",
+    "descripcion": "Canario cantor, activo sobre todo por las mañanas.",
+    "estado": "disponible"
+  },
+  {
+    "id": 43,
+    "nombre": "Rio",
+    "tipo": "ave",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/ffb703/ffffff?text=Rio+%F0%9F%90%A6",
+    "descripcion": "Cotorra inteligente, necesita estimulación mental diaria.",
+    "estado": "disponible"
+  },
+  {
+    "id": 44,
+    "nombre": "Paloma",
+    "tipo": "ave",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/fb8500/ffffff?text=Paloma+%F0%9F%90%A6",
+    "descripcion": "Tranquila y dócil, se adapta bien a jaulas grandes.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 45,
+    "nombre": "Piolín",
+    "tipo": "ave",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/ffb703/ffffff?text=Piolin+%F0%9F%90%A6",
+    "descripcion": "Periquito joven, todavía en proceso de socialización.",
+    "estado": "disponible"
+  },
+  {
+    "id": 46,
+    "nombre": "Estrella",
+    "tipo": "ave",
+    "edad": 4,
+    "foto": "https://placehold.co/400x300/fb8500/ffffff?text=Estrella+%F0%9F%90%A6",
+    "descripcion": "Ninfa (cacatúa pequeña) muy cariñosa con su cuidador.",
+    "estado": "disponible"
+  },
+  {
+    "id": 47,
+    "nombre": "Blue",
+    "tipo": "ave",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/ffb703/ffffff?text=Blue+%F0%9F%90%A6",
+    "descripcion": "Guacamayo pequeño, requiere jaula amplia y mucho espacio.",
+    "estado": "disponible"
+  },
+  {
+    "id": 48,
+    "nombre": "Pipo",
+    "tipo": "ave",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/fb8500/ffffff?text=Pipo+%F0%9F%90%A6",
+    "descripcion": "Diamante mandarín, mejor mantenido en pareja o grupo.",
+    "estado": "disponible"
+  },
+  {
+    "id": 49,
+    "nombre": "Aurora",
+    "tipo": "ave",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/ffb703/ffffff?text=Aurora+%F0%9F%90%A6",
+    "descripcion": "Cacatúa adulta, muy expresiva y necesita compañía frecuente.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 50,
+    "nombre": "Trueno",
+    "tipo": "ave",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/fb8500/ffffff?text=Trueno+%F0%9F%90%A6",
+    "descripcion": "Cuervo domesticado, muy inteligente y curioso.",
+    "estado": "disponible"
+  },
+  {
+    "id": 51,
+    "nombre": "Draco",
+    "tipo": "reptil",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/6a994e/ffffff?text=Draco+%F0%9F%A6%8E",
+    "descripcion": "Dragón barbudo tranquilo, ideal para principiantes en reptiles.",
+    "estado": "disponible"
+  },
+  {
+    "id": 52,
+    "nombre": "Kaa",
+    "tipo": "reptil",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/386641/ffffff?text=Kaa+%F0%9F%90%8D",
+    "descripcion": "Serpiente del maíz, dócil y de fácil manejo.",
+    "estado": "disponible"
+  },
+  {
+    "id": 53,
+    "nombre": "Spike",
+    "tipo": "reptil",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/6a994e/ffffff?text=Spike+%F0%9F%A6%8E",
+    "descripcion": "Iguana verde joven, necesita terrario grande con calor y UV.",
+    "estado": "disponible"
+  },
+  {
+    "id": 54,
+    "nombre": "Tortu",
+    "tipo": "reptil",
+    "edad": 5,
+    "foto": "https://placehold.co/400x300/386641/ffffff?text=Tortu+%F0%9F%90%A2",
+    "descripcion": "Tortuga de tierra, longeva, requiere compromiso a largo plazo.",
+    "estado": "disponible"
+  },
+  {
+    "id": 55,
+    "nombre": "Gecko",
+    "tipo": "reptil",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/6a994e/ffffff?text=Gecko+%F0%9F%A6%8E",
+    "descripcion": "Gecko leopardo, nocturno y de cuidados sencillos.",
+    "estado": "adoptado"
+  },
+  {
+    "id": 56,
+    "nombre": "Camu",
+    "tipo": "reptil",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/386641/ffffff?text=Camu+%F0%9F%A6%8E",
+    "descripcion": "Camaleón velado, necesita terrario alto y bien ventilado.",
+    "estado": "disponible"
+  },
+  {
+    "id": 57,
+    "nombre": "Rex",
+    "tipo": "reptil",
+    "edad": 3,
+    "foto": "https://placehold.co/400x300/6a994e/ffffff?text=Rex+%F0%9F%A6%8E",
+    "descripcion": "Dragón de agua chino, activo y buen nadador.",
+    "estado": "disponible"
+  },
+  {
+    "id": 58,
+    "nombre": "Slinky",
+    "tipo": "reptil",
+    "edad": 2,
+    "foto": "https://placehold.co/400x300/386641/ffffff?text=Slinky+%F0%9F%90%8D",
+    "descripcion": "Boa constrictor joven, tranquila y de manejo sencillo con experiencia.",
+    "estado": "disponible"
+  },
+  {
+    "id": 59,
+    "nombre": "Concha",
+    "tipo": "reptil",
+    "edad": 4,
+    "foto": "https://placehold.co/400x300/6a994e/ffffff?text=Concha+%F0%9F%90%A2",
+    "descripcion": "Tortuga de agua, necesita acuaterrario con zona seca y húmeda.",
+    "estado": "disponible"
+  },
+  {
+    "id": 60,
+    "nombre": "Escamas",
+    "tipo": "reptil",
+    "edad": 1,
+    "foto": "https://placehold.co/400x300/386641/ffffff?text=Escamas+%F0%9F%A6%8E",
+    "descripcion": "Lagarto de collar, joven y muy ágil.",
+    "estado": "adoptado"
+  }
+]
